@@ -1,10 +1,9 @@
-# **ELENA METELITSA** \
+# **ELENA METELITSA** 
 
 *Tel.: +375 (29) 3651899*
-\ 
 
 ![](C:\Users\LisoKot Corp\Desktop\IMG_9744.jpg)
-\ 
+
 
 My main goal is to become a *Frontend/Backend Developer*. Now I work as a *technical support engineer* in Polimaster Ltd. A company that produces radialogical control equipment such as a dosimeters, hend-held radiation monitors, personal radiation detectors and another products.
 
